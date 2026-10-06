@@ -1,0 +1,2 @@
+Python Day 2 Internship Training
+File handling practice
