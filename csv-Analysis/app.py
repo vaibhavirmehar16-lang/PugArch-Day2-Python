@@ -71,7 +71,7 @@ df = st.session_state.employees_df
 header_col1, header_col2 = st.columns([3, 1])
 with header_col1:
     st.title("💼 Workforce Intelligence & Compensation Portal")
-    st.caption("PugArch Technology 10-Day Training — Day 2 Core Python & Analytics Track")
+    st.caption("An interactive data analytics platform built to evaluate organizational metrics, payroll, and departmental distributions.")
 
 with header_col2:
     st.write("")
